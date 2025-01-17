@@ -1,1 +1,9 @@
-background-color : red;
+body {
+  background: url('javascript:alert(1)');
+}
+
+/* 
+body {
+  background: url('attacker");'
+}
+*/
